@@ -1,0 +1,12 @@
+div.container#main {
+  margin-top: 25px;
+}
+
+div.container#main h1 {
+  margin-bottom: 15px;
+}
+
+div.alert.alert-status {
+  font-size: 32px;
+  padding: 30px;
+}
